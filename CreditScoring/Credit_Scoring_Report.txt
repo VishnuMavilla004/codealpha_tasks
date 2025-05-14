@@ -1,0 +1,20 @@
+Credit Scoring Model Summary
+----------------------------
+
+Objective:
+To predict whether an individual is creditworthy (1) or not (0) based on financial data.
+
+Models Used:
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+
+Best Performing Model:
+- Random Forest with high accuracy and ROC-AUC score.
+
+Evaluation:
+- Confusion Matrix: Shows classification accuracy.
+- ROC Curve: Demonstrates model's performance in classifying positive/negative cases.
+
+Usage:
+This model can be used in finance applications to automate credit checks.
